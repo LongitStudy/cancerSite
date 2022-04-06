@@ -1,5 +1,5 @@
 # CancerSite
-This syntax derives variables indicating whether Longitudinal Study members were diagnosed with cancer in one of the top 20 cancer sites in the UK. It only 
+This syntax derives variables indicating whether Longitudinal Study members were diagnosed with cancer in one of the top 20 cancer sites in the UK. 
 - lung + trachea and bronchus (icd8/9 = 162; icd10 = c33, c34).
 - prostate (icd8/9 = 185; icd10 = c61).
 - colorectal (incl. anus) (icd8/9 = 153, 154; icd10 = c18, c19, c20, c21).
